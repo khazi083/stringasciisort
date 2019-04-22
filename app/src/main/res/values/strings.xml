@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StringSortAscii</string>
+
+    <string-array name="cmpyvalues">
+        <item>Relentless Commitment to Impact</item>
+        <item>Robust as Fudge</item>
+        <item>Be Surprisingly Bold</item>
+        <item>Get Back Up</item>
+        <item>Make it Happen</item>
+        <item>Don\'t be a Jerk</item>
+        <item>Confront the Grey</item>
+        <item>Laugh Together, Grow Together</item>
+    </string-array>
+</resources>
